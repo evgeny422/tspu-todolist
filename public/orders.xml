@@ -1,0 +1,21 @@
+<Root>
+<AuthData>
+<InstitutionID>2516</InstitutionID>
+</AuthData>
+<PackageData>
+<Orders>
+<OrdersOfAdmission>
+<OrderOfAdmission>
+<OrderOfAdmissionUID>72stz01y21</OrderOfAdmissionUID>
+<CampaignUID>TSPU21b</CampaignUID>
+<OrderName>Приказ 72-СТ/З/01</OrderName>
+<OrderNumber>72-СТ/З/01</OrderNumber>
+<EducationFormID>10</EducationFormID>
+<FinanceSourceID>15</FinanceSourceID>
+<EducationLevelID>2</EducationLevelID>
+<Stage>1</Stage>
+</OrderOfAdmission>
+</OrdersOfAdmission>
+</Orders>
+</PackageData>
+</Root>
